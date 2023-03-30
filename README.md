@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML/CSS<br>⚡ is strange learn programming 
+🌱 I’m currently learning HTML/CSS and JAVA<br>⚡ is strange learn programming 
 
 
 ## 🌐 Socials:
